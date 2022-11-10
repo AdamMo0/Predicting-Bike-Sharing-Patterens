@@ -26,7 +26,7 @@ Results
 
 
 
-![Loss](loss.png)                                                                     ![Result](result.png)
+![Loss](Loss.png)                                                                     ![Result](result.png)
 
 
 
